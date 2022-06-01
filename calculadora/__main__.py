@@ -1,4 +1,3 @@
-import imp
 from calculadora import suma
 if __name__ == "__main__":
     numero_1 = int(input("Primer numero: "))
