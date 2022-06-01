@@ -1,3 +1,5 @@
-from calculadora import suma as sum
+import calculadora
 if __name__ == "__main__":
-    pass
+    numero_1 = int(input("Primer numero: "))
+    numero_2 = int(input("Segundo numero: "))
+    calculadora.suma(numero_1, numero_2)
