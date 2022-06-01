@@ -9,3 +9,7 @@ def resta(numero_1, numero_2):
 def multiplicacion(numero_1, numero_2):
     resultado = numero_1 * numero_2
     print(f"El resultado es: {resultado}")
+
+def division(numero_1, numero_2):
+    resultado = numero_1 / numero_2
+    print(f"El resultado es: ")
